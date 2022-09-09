@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on some projects
 - 📫 How to reach me ... TG: @tiel_run
 
-<!---
-StayAWSM/StayAWSM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi there!
+today is the practice day and i'm kinda tired and dazzled a bit. so it's my second fork to understand how it actually works:) 
+Have a good day!
